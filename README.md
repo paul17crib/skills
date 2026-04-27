@@ -74,3 +74,7 @@ See [.github/workflows/SECURITY.md](.github/workflows/SECURITY.md) for our secur
 ## License
 
 Apache 2.0 — see [LICENSE](LICENSE) for details.
+
+---
+
+> **Personal fork notes:** I'm using this repo to experiment with building custom skills for my own workflows. Main areas of interest: text summarization and code review skills. Not intended for production use.
