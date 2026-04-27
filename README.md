@@ -83,3 +83,4 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 > - [ ] Build a summarization skill that handles long documents (>10k tokens) by chunking
 > - [ ] Experiment with a code review skill focused on Python style/type hints
 > - [ ] Compare eval results against upstream once I have a baseline
+> - [ ] Look into adding a `--dry-run` flag to the evals runner so I can test without writing results
