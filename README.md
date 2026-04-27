@@ -78,3 +78,8 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 ---
 
 > **Personal fork notes:** I'm using this repo to experiment with building custom skills for my own workflows. Main areas of interest: text summarization and code review skills. Not intended for production use.
+>
+> **TODO:**
+> - [ ] Build a summarization skill that handles long documents (>10k tokens) by chunking
+> - [ ] Experiment with a code review skill focused on Python style/type hints
+> - [ ] Compare eval results against upstream once I have a baseline
