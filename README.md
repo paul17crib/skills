@@ -84,4 +84,6 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 > - [ ] Experiment with a code review skill focused on Python style/type hints
 > - [ ] Compare eval results against upstream once I have a baseline
 > - [ ] Look into adding a `--dry-run` flag to the evals runner so I can test without writing results
+> - [ ] Try running evals against `gpt-4o-mini` as a cheaper baseline before committing to full runs
 > - [x] Try chunking strategy: overlap by ~10% between chunks to avoid losing context at boundaries — tested this, works well; settled on 15% overlap since 10% occasionally dropped a sentence at boundaries
+> - [x] Set up local dev environment with `uv` instead of `pip` — noticeably faster for resolving deps
